@@ -1,0 +1,13 @@
+# full_gionee6735_65u_l1-user 5.1 LMY47D 1455638333 release-keys
+- manufacturer: walton
+- platform: mt6735
+- codename: Primo_R4_Plus
+- flavor: full_gionee6735_65u_l1-user
+- release: 5.1
+- id: LMY47D
+- incremental: 1455638333
+- tags: release-keys
+- fingerprint: WALTON/Primo_R4_Plus/Primo_R4_Plus:5.1/LMY47D/1455638333:user/release-keys
+- brand: WALTON
+- branch: full_gionee6735_65u_l1-user-5.1-LMY47D-1455638333-release-keys
+- repo: walton_primo_r4_plus_dump
